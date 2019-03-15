@@ -196,11 +196,14 @@ SWIFT_CLASS("_TtC11OneTwoThree11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIButton;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC11OneTwoThree14ViewController")
 @interface ViewController : UIViewController
+- (IBAction)getProjectByID:(UIButton * _Nonnull)sender;
+- (IBAction)sendProjectParameters:(UIButton * _Nonnull)sender;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
