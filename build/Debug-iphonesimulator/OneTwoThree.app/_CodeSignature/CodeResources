@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		0Xc1E1Xxm7burglKwLJ2tCukjmE=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		c4h1VEfYf6IPsYeabw0EF3QLHrI=
+		TWTUAw4tQ5LkgdUOjtE1/CfKzQU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +18,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		GXMbYlxctKp8zEn7hzonfIgBV10=
+		HTfp7s547iCh0LO1JdKVTmBuoxw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		75Bjc2bGGOqmsJIUa70TIquW9xk=
+		rtg+XpUCdtgccm/IvX51mhAPbq4=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		WVzkUNZimSzJdXIrX/veg97Whq4=
+		2nJVdmOW6hWifNU3az3/55URTqA=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -82,24 +86,57 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8GjGVT6go7IzvUXQA6x4sLMJ45c=
+		D0DFpVGVxeEqorKbMROOPyGM0y8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>Radomir Tinkov - Gilroy-ExtraBold.otf</key>
+		<data>
+		FBSPA0XvV7xJNJYiTQfkF5oS5/U=
+		</data>
+		<key>Radomir Tinkov - Gilroy-Light.otf</key>
+		<data>
+		fN8M1Wykc4X1aIWST0cIT4nk0aQ=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eJz8A0DKwQkZIFOQjIUFrs8jy9I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>libswiftRemoteMirror.dylib</key>
 		<data>
 		s7ona7AnRrumtUKclaVHhamjsDg=
 		</data>
+		<key>ru.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jp+UyOlWxELsk/9s+ywm27M47JObhoL//1poLe3RljY=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gW7L2oRRja8WzNcZtf5Gb5BRJHWZ6A95o6YfVzHmQOM=
+			FvYO06HjqY6TRVZOaX9r2u8xt4qBGw3AYAq3+Dcl1f0=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -113,14 +150,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qS7gVDLLCY7FgG5cGCtg6TcLibJEBPZUN1QncKRCTcY=
+			Sq0Rm4VtB9SZ8DZoBOP4PyZbh4XGpSLxEF+MNOpgvrs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n4A4CBHySgIHyDiRpWp+BAcyb5aaK8fVv7duwEU7ZRU=
+			8ivEzD778TRbj6OePbDKcCR0PLLKBRLvjzRJFZ5oBp8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -134,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ivo/4U5lcw5Tea9iRDpnAgkhGvDQBUCzUb9FREbA2ls=
+			naq/qB1IrL9xabVXooK48LwLpfOAEHevfHUBOUypc8Y=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -228,12 +265,44 @@
 			EFpaiyfJXaJ3aaulKQ7mrmPLuqXG8IqYFe0E9uygyzU=
 			</data>
 		</dict>
+		<key>Radomir Tinkov - Gilroy-ExtraBold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ATOYn7LqwbgqD4yLYXSYBcg1doy28BGRT40XF5ExxJM=
+			</data>
+		</dict>
+		<key>Radomir Tinkov - Gilroy-Light.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z79Ju+ka5dEilXrRXyPlKEE13x58ou65T61U2zVqsp0=
+			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HbQHQX6NtxSQHt1Uoze21DaXuI5P/G89amM1E1y4E5A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>libswiftRemoteMirror.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			4GGtFhjWbkrl7cXmNqDKd0XMq1o5tsG/YtXAPAR8Mrk=
 			</data>
+		</dict>
+		<key>ru.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

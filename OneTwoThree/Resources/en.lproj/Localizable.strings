@@ -1,0 +1,16 @@
+/* 
+  Loalizable.strings
+  OneTwoThree
+
+  Created by Andrey Torlopov on 17/03/2019.
+  Copyright © 2019 ARBI BASHAEV. All rights reserved.
+*/
+
+"ok" = "Ок";
+"error" = "Ошибка";
+"currentProjectIsFail" = "Возможно вы ошиблись. У вас нет доступа к этой директории.\nПопробуйте ввести: ";
+"serverErrorMessage" = "Не удалось получить данные с сервара";
+"errorParseJson" = "Не удалось распарсить json объект";
+"widthHeightEmpty" = "Поля высоты и ширины должны быть заполнены";
+"currency" = "руб";
+"noPriceAndDate" = "Не удалось получить цену и дату";

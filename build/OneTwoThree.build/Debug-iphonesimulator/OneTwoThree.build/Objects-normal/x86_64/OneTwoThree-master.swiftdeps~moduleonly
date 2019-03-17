@@ -1,7 +1,14 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "2c518a662309c6f4e72f6fb596d010bd"
-build_time: [1552688210, 564529000]
+options: "f50322be62cfcd26c5a00674492e00c4"
+build_time: [1552861825, 47370000]
 inputs:
-  "/Users/arbibashaev/Developer/Learn/LearnProjects/OneTwoThree/OneTwoThree/ViewController.swift": [1552688206, 0]
-  "/Users/arbibashaev/Developer/Learn/LearnProjects/OneTwoThree/OneTwoThree/Output.swift": [1552605656, 0]
-  "/Users/arbibashaev/Developer/Learn/LearnProjects/OneTwoThree/OneTwoThree/AppDelegate.swift": [1552616575, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Common/Public/AlertHelper.swift": [1552845316, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Modules/Main/ViewController.swift": [1552860325, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Modules/Main/Model/Output.swift": [1552843914, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Modules/Main/Provider/MainProvider.swift": [1552858720, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Modules/Main/Service/MockDataService.swift": [1552857841, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Modules/Main/Model/SecondOutput.swift": [1552843735, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Common/Public/APIRequest.swift": [1552859278, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/NSLog.swift": !dirty [9223372036, 854775807]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/SupportingFiles/AppDelegate.swift": [1552763330, 0]
+  "/Users/arbibashaev/Downloads/OneTwoAnd/OneTwoThree/Common/Public/Strings.swift": [1552860264, 0]

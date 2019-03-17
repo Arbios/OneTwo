@@ -13,6 +13,18 @@
 		5A39C74D223AA2F400B7DE32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A39C74C223AA2F400B7DE32 /* Assets.xcassets */; };
 		5A39C750223AA2F400B7DE32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A39C74E223AA2F400B7DE32 /* LaunchScreen.storyboard */; };
 		5A39C759223B102A00B7DE32 /* Output.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A39C758223B102A00B7DE32 /* Output.swift */; };
+		5A48B54E223CABB900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A48B54D223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf */; };
+		5A48B54F223CABBC00CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A48B54C223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf */; };
+		5AA2EF0D223D7D9200D3ADCC /* SecondOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA2EF0C223D7D9200D3ADCC /* SecondOutput.swift */; };
+		5AC5E091223F020000EFB6F2 /* upload-dsym.sh in Resources */ = {isa = PBXBuildFile; fileRef = 5AC5E08C223F01F400EFB6F2 /* upload-dsym.sh */; };
+		5AC5E092223F020000EFB6F2 /* libTestFairy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AC5E08D223F01FD00EFB6F2 /* libTestFairy.a */; };
+		5AC5E093223F020000EFB6F2 /* NSLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC5E08F223F01FE00EFB6F2 /* NSLog.swift */; };
+		A42A3BF3223EBED7009821C2 /* APIRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42A3BF2223EBED7009821C2 /* APIRequest.swift */; };
+		A42A3BF6223EC0B7009821C2 /* AlertHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42A3BF5223EC0B7009821C2 /* AlertHelper.swift */; };
+		A42A3BF9223EC119009821C2 /* Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42A3BF8223EC119009821C2 /* Strings.swift */; };
+		A42A3C01223ED403009821C2 /* MainProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42A3C00223ED403009821C2 /* MainProvider.swift */; };
+		A4BB9505223EEE8000D5E6EE /* MockDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BB9504223EEE8000D5E6EE /* MockDataService.swift */; };
+		A4BB9506223EF92600D5E6EE /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4BB9508223EF92600D5E6EE /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,21 @@
 		5A39C74F223AA2F400B7DE32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A39C751223AA2F400B7DE32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A39C758223B102A00B7DE32 /* Output.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Output.swift; sourceTree = "<group>"; };
+		5A48B54C223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Radomir Tinkov - Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
+		5A48B54D223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Radomir Tinkov - Gilroy-Light.otf"; sourceTree = "<group>"; };
+		5AA2EF0C223D7D9200D3ADCC /* SecondOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondOutput.swift; sourceTree = "<group>"; };
+		5AC5E08C223F01F400EFB6F2 /* upload-dsym.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "upload-dsym.sh"; sourceTree = "<group>"; };
+		5AC5E08D223F01FD00EFB6F2 /* libTestFairy.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTestFairy.a; sourceTree = "<group>"; };
+		5AC5E08E223F01FE00EFB6F2 /* Bridging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bridging.h; sourceTree = "<group>"; };
+		5AC5E08F223F01FE00EFB6F2 /* NSLog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSLog.swift; sourceTree = "<group>"; };
+		5AC5E090223F020000EFB6F2 /* TestFairy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestFairy.h; sourceTree = "<group>"; };
+		A42A3BF2223EBED7009821C2 /* APIRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIRequest.swift; sourceTree = "<group>"; };
+		A42A3BF5223EC0B7009821C2 /* AlertHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertHelper.swift; sourceTree = "<group>"; };
+		A42A3BF8223EC119009821C2 /* Strings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
+		A42A3C00223ED403009821C2 /* MainProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainProvider.swift; sourceTree = "<group>"; };
+		A4968255223EFA1000883B2C /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		A4BB9504223EEE8000D5E6EE /* MockDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockDataService.swift; sourceTree = "<group>"; };
+		A4BB9507223EF92600D5E6EE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AC5E092223F020000EFB6F2 /* libTestFairy.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,23 +84,109 @@
 		5A39C744223AA2F300B7DE32 /* OneTwoThree */ = {
 			isa = PBXGroup;
 			children = (
-				5A39C757223B101700B7DE32 /* Model */,
-				5A39C745223AA2F300B7DE32 /* AppDelegate.swift */,
-				5A39C747223AA2F300B7DE32 /* ViewController.swift */,
-				5A39C749223AA2F300B7DE32 /* Main.storyboard */,
-				5A39C74C223AA2F400B7DE32 /* Assets.xcassets */,
-				5A39C74E223AA2F400B7DE32 /* LaunchScreen.storyboard */,
-				5A39C751223AA2F400B7DE32 /* Info.plist */,
+				5AC5E08B223F017B00EFB6F2 /* Testing */,
+				A42A3BEE223EBBF2009821C2 /* Common */,
+				A42A3BEB223EBAA9009821C2 /* Modules */,
+				A42A3BEA223EBA89009821C2 /* Resources */,
+				A42A3BE9223EBA71009821C2 /* SupportingFiles */,
 			);
 			path = OneTwoThree;
 			sourceTree = "<group>";
 		};
-		5A39C757223B101700B7DE32 /* Model */ = {
+		5AC5E08B223F017B00EFB6F2 /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+				5AC5E08E223F01FE00EFB6F2 /* Bridging.h */,
+				5AC5E08D223F01FD00EFB6F2 /* libTestFairy.a */,
+				5AC5E08F223F01FE00EFB6F2 /* NSLog.swift */,
+				5AC5E090223F020000EFB6F2 /* TestFairy.h */,
+				5AC5E08C223F01F400EFB6F2 /* upload-dsym.sh */,
+			);
+			name = Testing;
+			sourceTree = "<group>";
+		};
+		A42A3BE9223EBA71009821C2 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				5A39C745223AA2F300B7DE32 /* AppDelegate.swift */,
+				5A39C74E223AA2F400B7DE32 /* LaunchScreen.storyboard */,
+				5A39C751223AA2F400B7DE32 /* Info.plist */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		A42A3BEA223EBA89009821C2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A48B54C223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf */,
+				5A48B54D223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf */,
+				5A39C74C223AA2F400B7DE32 /* Assets.xcassets */,
+				A4BB9508223EF92600D5E6EE /* Localizable.strings */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A42A3BEB223EBAA9009821C2 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				A42A3BEC223EBAAD009821C2 /* Main */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		A42A3BEC223EBAAD009821C2 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				5A39C747223AA2F300B7DE32 /* ViewController.swift */,
+				5A39C749223AA2F300B7DE32 /* Main.storyboard */,
+				A42A3BED223EBBE0009821C2 /* Model */,
+				A42A3BFF223ED3DD009821C2 /* Provider */,
+				A4BB9503223EEE6E00D5E6EE /* Service */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		A42A3BED223EBBE0009821C2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				5A39C758223B102A00B7DE32 /* Output.swift */,
+				5AA2EF0C223D7D9200D3ADCC /* SecondOutput.swift */,
 			);
-			name = Model;
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A42A3BEE223EBBF2009821C2 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				A42A3BF0223EBBFB009821C2 /* Public */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		A42A3BF0223EBBFB009821C2 /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				A42A3BF5223EC0B7009821C2 /* AlertHelper.swift */,
+				A42A3BF2223EBED7009821C2 /* APIRequest.swift */,
+				A42A3BF8223EC119009821C2 /* Strings.swift */,
+			);
+			path = Public;
+			sourceTree = "<group>";
+		};
+		A42A3BFF223ED3DD009821C2 /* Provider */ = {
+			isa = PBXGroup;
+			children = (
+				A42A3C00223ED403009821C2 /* MainProvider.swift */,
+			);
+			path = Provider;
+			sourceTree = "<group>";
+		};
+		A4BB9503223EEE6E00D5E6EE /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				A4BB9504223EEE8000D5E6EE /* MockDataService.swift */,
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,7 +249,11 @@
 			files = (
 				5A39C750223AA2F400B7DE32 /* LaunchScreen.storyboard in Resources */,
 				5A39C74D223AA2F400B7DE32 /* Assets.xcassets in Resources */,
+				5A48B54F223CABBC00CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf in Resources */,
+				5AC5E091223F020000EFB6F2 /* upload-dsym.sh in Resources */,
 				5A39C74B223AA2F300B7DE32 /* Main.storyboard in Resources */,
+				5A48B54E223CABB900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf in Resources */,
+				A4BB9506223EF92600D5E6EE /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,9 +264,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A42A3BF6223EC0B7009821C2 /* AlertHelper.swift in Sources */,
 				5A39C748223AA2F300B7DE32 /* ViewController.swift in Sources */,
 				5A39C759223B102A00B7DE32 /* Output.swift in Sources */,
+				A42A3C01223ED403009821C2 /* MainProvider.swift in Sources */,
+				A4BB9505223EEE8000D5E6EE /* MockDataService.swift in Sources */,
+				5AA2EF0D223D7D9200D3ADCC /* SecondOutput.swift in Sources */,
+				A42A3BF3223EBED7009821C2 /* APIRequest.swift in Sources */,
+				5AC5E093223F020000EFB6F2 /* NSLog.swift in Sources */,
 				5A39C746223AA2F300B7DE32 /* AppDelegate.swift in Sources */,
+				A42A3BF9223EC119009821C2 /* Strings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,8 +292,17 @@
 			isa = PBXVariantGroup;
 			children = (
 				5A39C74F223AA2F400B7DE32 /* Base */,
+				A4968255223EFA1000883B2C /* ru */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A4BB9508223EF92600D5E6EE /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A4BB9507223EF92600D5E6EE /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -178,6 +312,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -225,13 +360,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -239,6 +375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -280,12 +417,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -296,10 +434,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6355K3CJ5C;
-				INFOPLIST_FILE = OneTwoThree/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/OneTwoThree/SupportingFiles/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/OneTwoThree",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arbios.OneTwoThree;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -314,10 +457,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6355K3CJ5C;
-				INFOPLIST_FILE = OneTwoThree/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/OneTwoThree/SupportingFiles/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/OneTwoThree",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arbios.OneTwoThree;
 				PRODUCT_NAME = "$(TARGET_NAME)";
