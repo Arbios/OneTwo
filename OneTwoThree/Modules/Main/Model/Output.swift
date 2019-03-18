@@ -1,11 +1,3 @@
-//
-//  Output.swift
-//  OneTwoThree
-//
-//  Created by ARBI BASHAEV on 15/03/2019.
-//  Copyright © 2019 ARBI BASHAEV. All rights reserved.
-//
-
 import Foundation
 
 struct Output: Codable {

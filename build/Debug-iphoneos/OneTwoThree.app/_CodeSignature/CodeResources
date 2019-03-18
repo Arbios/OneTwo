@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		uNBbjqTdWhuCoTKExIif/QCEKC4=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		miX3CzKE4u5o1wLau/OLzUr/+XY=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		XQlk0fmujwUVVs31w6CBrjyS1Dk=
+		WzNfFYMx8JO8dg8mgpo+eTVsTAs=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -22,7 +30,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		xpkWDmHU4MXgcDD7vNNltpoyRlI=
+		ANBnUbdMHlSiT/XNbx26exoW6Zw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -30,7 +38,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		qU722ftdKgrAVXxFgqo2PQLOyVs=
+		YYhFKdjNMjzpkEkzHIVK8d0RPWE=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -86,7 +94,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0A0iQv9Ka6UmEuR9N+1OjOVkNXE=
+		5glvJxCj6zPxU3q8EaUHAFH3QrY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -133,11 +141,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jD6PEjc5IEEMe02Nc2Qi8RBSIAFVjuCppGAu78ayKQY=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BkcZQYMCoetmB3d4Aaojdxi54lEXx8otBzbqkmge59k=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7s03ZfmDcuNFtL2Ra26LqJfmHwEPWrGDLkRRmBLqxBo=
+			14bVF/8pSX28FF6sT647U4uZ/9+o65enf8MAz9XxL04=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -165,7 +187,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NabGkxAylojyfiUkJNas1adlTpVJrtZV8TvzhITbQXA=
+			qreYMoBAkigZZ8/MzUKQ9VCV8+1T2+pRnxhiOxbT8jw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -179,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			APAq3ngDbJ7d6zDWKXUGo0WWRLaZ4aepbngJrUYswCw=
+			Eeb9lS5zEZi6fCHThLQ7guzdmJCSVsV3lXM2nfMULGQ=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>

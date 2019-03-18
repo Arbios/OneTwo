@@ -1,11 +1,3 @@
-//
-//  MainProvider.swift
-//  OneTwoThree
-//
-//  Created by Andrey Torlopov on 17/03/2019.
-//  Copyright © 2019 ARBI BASHAEV. All rights reserved.
-//
-
 import Foundation
 
 enum ProjectIKResult {

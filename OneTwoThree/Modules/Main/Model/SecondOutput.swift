@@ -1,11 +1,3 @@
-//
-//  SecondOutput.swift
-//  OneTwoThree
-//
-//  Created by ARBI BASHAEV on 16/03/2019.
-//  Copyright © 2019 ARBI BASHAEV. All rights reserved.
-//
-
 import Foundation
 
 enum OutputKeys: Int {

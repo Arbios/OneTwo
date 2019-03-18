@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  OneTwoThree
-//
-//  Created by ARBI BASHAEV on 14/03/2019.
-//  Copyright © 2019 ARBI BASHAEV. All rights reserved.
-//
-
 import UIKit
 
 final class ViewController: UIViewController {
