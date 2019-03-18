@@ -15,6 +15,11 @@
 		5A39C759223B102A00B7DE32 /* Output.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A39C758223B102A00B7DE32 /* Output.swift */; };
 		5A48B54E223CABB900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A48B54D223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf */; };
 		5A48B54F223CABBC00CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A48B54C223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf */; };
+		5A9455342240522000F42522 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A9455332240522000F42522 /* CoreMedia.framework */; };
+		5A9455362240522700F42522 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A9455352240522700F42522 /* CoreMotion.framework */; };
+		5A9455382240522E00F42522 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A9455372240522E00F42522 /* AVFoundation.framework */; };
+		5A94553A2240523400F42522 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A9455392240523400F42522 /* SystemConfiguration.framework */; };
+		5A94553C2240523A00F42522 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A94553B2240523A00F42522 /* OpenGLES.framework */; };
 		5AA2EF0D223D7D9200D3ADCC /* SecondOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA2EF0C223D7D9200D3ADCC /* SecondOutput.swift */; };
 		5AC5E091223F020000EFB6F2 /* upload-dsym.sh in Resources */ = {isa = PBXBuildFile; fileRef = 5AC5E08C223F01F400EFB6F2 /* upload-dsym.sh */; };
 		5AC5E092223F020000EFB6F2 /* libTestFairy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AC5E08D223F01FD00EFB6F2 /* libTestFairy.a */; };
@@ -38,6 +43,11 @@
 		5A39C758223B102A00B7DE32 /* Output.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Output.swift; sourceTree = "<group>"; };
 		5A48B54C223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Radomir Tinkov - Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
 		5A48B54D223CABA900CEBAB9 /* Radomir Tinkov - Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Radomir Tinkov - Gilroy-Light.otf"; sourceTree = "<group>"; };
+		5A9455332240522000F42522 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		5A9455352240522700F42522 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		5A9455372240522E00F42522 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		5A9455392240523400F42522 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		5A94553B2240523A00F42522 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		5AA2EF0C223D7D9200D3ADCC /* SecondOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondOutput.swift; sourceTree = "<group>"; };
 		5AC5E08C223F01F400EFB6F2 /* upload-dsym.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "upload-dsym.sh"; sourceTree = "<group>"; };
 		5AC5E08D223F01FD00EFB6F2 /* libTestFairy.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTestFairy.a; sourceTree = "<group>"; };
@@ -58,6 +68,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A94553C2240523A00F42522 /* OpenGLES.framework in Frameworks */,
+				5A94553A2240523400F42522 /* SystemConfiguration.framework in Frameworks */,
+				5A9455382240522E00F42522 /* AVFoundation.framework in Frameworks */,
+				5A9455362240522700F42522 /* CoreMotion.framework in Frameworks */,
+				5A9455342240522000F42522 /* CoreMedia.framework in Frameworks */,
 				5AC5E092223F020000EFB6F2 /* libTestFairy.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -70,6 +85,7 @@
 			children = (
 				5A39C744223AA2F300B7DE32 /* OneTwoThree */,
 				5A39C743223AA2F300B7DE32 /* Products */,
+				5A9455322240522000F42522 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -91,6 +107,18 @@
 				A42A3BE9223EBA71009821C2 /* SupportingFiles */,
 			);
 			path = OneTwoThree;
+			sourceTree = "<group>";
+		};
+		5A9455322240522000F42522 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5A94553B2240523A00F42522 /* OpenGLES.framework */,
+				5A9455392240523400F42522 /* SystemConfiguration.framework */,
+				5A9455372240522E00F42522 /* AVFoundation.framework */,
+				5A9455352240522700F42522 /* CoreMotion.framework */,
+				5A9455332240522000F42522 /* CoreMedia.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		5AC5E08B223F017B00EFB6F2 /* Testing */ = {
@@ -446,6 +474,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arbios.OneTwoThree;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/arbibashaev/Developer/Learn/LearnProjects/OneTwoAnd/OneTwoThree/Bridging.h;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -469,6 +498,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.arbios.OneTwoThree;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/arbibashaev/Developer/Learn/LearnProjects/OneTwoAnd/OneTwoThree/Bridging.h;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
